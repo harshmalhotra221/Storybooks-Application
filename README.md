@@ -6,7 +6,7 @@
 - It is also using Handlebars as our template engine
 - In this application you can make your story either public or private
 - I'm also using WYSIWYG editor for story editing 
-- Storybooks
 
+-
 https://user-images.githubusercontent.com/77105409/154654504-307fb07e-abbb-4f8f-a760-db340cd569c7.mp4
 
